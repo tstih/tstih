@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tstih.
+- 👀 I’m interested in retro computer programming and AI.
+- 💞️ I’m looking to collaborate on retro projects for the Iskra Delta Partner computers.
+- 📫 How to reach me: tomaz dot stih at post dot com.
