@@ -1,22 +1,25 @@
 
-# My Retro Projects
+# Retro Projects
 
-# General
+## General
 
  * [**pixie**](https://github.com/tstih/pixie) is a vector display emulator for Linux. It is a great project if you want to test C code for vector displays or learn lex/yacc programming.
+<br/>
 
-# Z80
+## Z80
 
  * [**libsdcc-z80**](https://github.com/tstih/libsdcc-z80) is the bare metal SDCC library for Z80. 
  * [**libcpm3-z80**](https://github.com/tstih/libcpm3-z80) is the standard C library for CP/M 3. 
  * [**bugz**](https://github.com/tstih/bugz) is the smallest z80 disassembler in the world.
  * [**z80high**](https://github.com/tstih/z80high) is the z80 highlighter in JavaScript, used on the [**Oddbit Retro**](http://www.oddbit-retro.org) site.
+<br/>
 
 ## ZX Spectrum
 
  * [**yx**](https://github.com/tstih/yx) a multithreaded kernel and a gui for zx spectrum 48K, merged into the xyz.
  * [**zxspec48-app**](https://github.com/tstih/zxspec48-app) is a simple application template for ZX spectrum.
- 
+ <br/>
+
 ## Iskra Delta Partner
 
  * [**idp-udev**](https://github.com/tstih/idp-udev) is a micro-library to create computer games for the Iskra Delta Partner. The library is stripped to the bare minimum and optimized for size and speed.
@@ -28,13 +31,15 @@
  * ![alpha.badge] [**idp-sw**](https://github.com/tstih/idp-sw) are samples of Iskra Delta Partner software made wtih idp-dev and libgpx.
  * [**idp-doc**](https://github.com/tstih/idp-doc) is the Iskra Delta Patner Technical Documentation Archive. 
  * [**dlg-dev**](https://github.com/tstih/dlg-dev) is the Gorenje Dialog technical documentation archive.
+<br/>
 
+# Modern Projects
+<br/>
 
-# My "Modern" Projects
+ * [**More**](https://github.com/tstih/more) is a library of WinForms controls.
+<br/>
 
- * More is a library of WinForms controls.
-
-# My Current Project Queue
+# "The Queue"
  * ![alpha.badge] [**xyz**](https://github.com/tstih/xyz) is a complete operating system for zx spectrum 48k consisting of: the x compiler suite, the y os and the z gui under development.
  * **squid** is a raspberry pi software for adapting modern hardware to retro hardware using only software.
  * **idp-gala** is Galaksija emulator for the Iskra Delta Partner.
@@ -50,6 +55,7 @@
  * **nice** is an experimental modern C++ wrapper on top of windows API.
  * **idp-vault** is the Iskra Delta Partner software vault.
  * **z80maestro** is the Z80 dissasembler, code analyzer and emulator.
+<br/>
 
 You can reach me: tomaz dot stih at post dot com.
 
