@@ -39,7 +39,7 @@
  * [**More**](https://github.com/tstih/more) is a library of WinForms controls.
 <br/>
 
-# "The Queue"
+# Waiting for Better Days
  * ![alpha.badge] [**xyz**](https://github.com/tstih/xyz) is a complete operating system for zx spectrum 48k consisting of: the x compiler suite, the y os and the z gui under development.
  * **squid** is a raspberry pi software for adapting modern hardware to retro hardware using only software.
  * **idp-gala** is Galaksija emulator for the Iskra Delta Partner.
