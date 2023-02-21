@@ -26,7 +26,7 @@
  * [**lunatik**](https://github.com/tstih/lunatik) is the Moon Lander game for the Iskra Delta Partner.
  * [**idp-quill**](https://github.com/tstih/idp-quill) are the The Quill adventures ports for the Iskra Delta Partner: Kontrabant, Kontrabant II., and Eurorun.
  * [**idp-animate**](https://github.com/tstih/idp-animate) is the vector animation player for the Iskra Delta Partner.
- * ![beta.badge] [**idp-dev**](https://github.com/tstih/idp-dev) is a full blown Iskra Delta Partner SDK. 
+ * [**idp-dev**](https://github.com/tstih/idp-dev) is a full blown Iskra Delta Partner SDK. 
  * ![alpha.badge] [**libgpx**](https://github.com/tstih/libgpx) is the cross platform (Iskra Delta Partner and ZX Spectrum) 
  * ![alpha.badge] [**idp-sw**](https://github.com/tstih/idp-sw) are samples of Iskra Delta Partner software made wtih idp-dev and libgpx.
  * [**idp-doc**](https://github.com/tstih/idp-doc) is the Iskra Delta Patner Technical Documentation Archive. 
@@ -60,4 +60,3 @@
 You can reach me: tomaz dot stih at post dot com.
 
 [alpha.badge]:  https://img.shields.io/badge/status-alpha-red.svg
-[beta.badge]:  https://img.shields.io/badge/status-beta-orange.svg
