@@ -59,4 +59,6 @@
 
 You can reach me: tomaz dot stih at post dot com.
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomazstih) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tomaz.stih) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)](https://www.linkedin.com/in/tomaz-stih/) 
+
 [alpha.badge]:  https://img.shields.io/badge/status-alpha-red.svg
