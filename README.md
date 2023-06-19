@@ -35,7 +35,6 @@
 <br/>
 
 # Modern Projects
-<br/>
 
  * [**More**](https://github.com/tstih/more) is a library of WinForms controls.
 <br/>
