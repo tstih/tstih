@@ -25,6 +25,7 @@
  * [**idp-udev**](https://github.com/tstih/idp-udev) is a micro-library to create computer games for the Iskra Delta Partner. The library is stripped to the bare minimum and optimized for size and speed.
  * [**lunatik**](https://github.com/tstih/lunatik) is the Moon Lander game for the Iskra Delta Partner.
  * [**idp-quill**](https://github.com/tstih/idp-quill) are the The Quill adventures ports for the Iskra Delta Partner: Kontrabant, Kontrabant II., and Eurorun.
+ * [**sah-partner**](https://github.com/tstih/sah-partner) is a chess for the Iskra Delta Partner.
  * [**idp-animate**](https://github.com/tstih/idp-animate) is the vector animation player for the Iskra Delta Partner.
  * [**idp-dev**](https://github.com/tstih/idp-dev) is a full blown Iskra Delta Partner SDK. 
  * ![alpha.badge] [**libgpx**](https://github.com/tstih/libgpx) is the cross platform (Iskra Delta Partner and ZX Spectrum) 
@@ -51,7 +52,6 @@
  * **idp-emu** is the Iskra Delta Partner debugger for Linux.
  * **zxm** is the mouse for the ZX Spectrum.
  * **alto** is portable GUI for 8 bit machines, written from scratch.
- * **sah-partner** is a chess for the Iskra Delta Partner.
  * **nice** is an experimental modern C++ wrapper on top of windows API.
  * **idp-vault** is the Iskra Delta Partner software vault.
  * **z80maestro** is the Z80 dissasembler, code analyzer and emulator.
