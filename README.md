@@ -1,63 +1,90 @@
+Retro computing is my hobby — you can't build the future without knowing the past.
 
-# Retro Projects
+⬤ Stable ◯ In Progress ◌ Skunk Works
 
-## General
+# Personal Projects (tstih)
 
- * [**pixie**](https://github.com/tstih/pixie) is a vector display emulator for Linux. It is a great project if you want to test C code for vector displays or learn lex/yacc programming.
-<br/>
+## Software
 
-## Z80
+⬤ [tstih](https://github.com/tstih/tstih) · Config files and dotfiles for my GitHub profile.  
+⬤ [pixie](https://github.com/tstih/pixie) · Simple vector display emulator for Linux.  
+⬤ [more](https://github.com/tstih/more) · Collection of MIT-licensed WinForms controls for .NET Core.  
+◯ [zxm](https://github.com/tstih/zxm) · Mouse interface for the ZX Spectrum.  
+◌ [lingo](https://github.com/tstih/lingo) · Modern C++20 parser combinator framework.  
+◌ [alto](https://github.com/tstih/alto) · Portable GUI framework, inspired by the Xerox Alto.
 
- * [**libsdcc-z80**](https://github.com/tstih/libsdcc-z80) is the bare metal SDCC library for Z80. 
- * [**libcpm3-z80**](https://github.com/tstih/libcpm3-z80) is the standard C library for CP/M 3. 
- * [**bugz**](https://github.com/tstih/bugz) is the smallest z80 disassembler in the world.
- * [**z80high**](https://github.com/tstih/z80high) is the z80 highlighter in JavaScript, used on the [**Oddbit Retro**](http://www.oddbit-retro.org) site.
-<br/>
+## Books
 
-## ZX Spectrum
+◯ [fundamentals-code](https://github.com/tstih/fundamentals-code) · Code examples for _The Fundamentals_ book series.  
+◯ [fundamentals-figures](https://github.com/tstih/fundamentals-figures) · Illustrations and diagrams for _Fundamentals_.  
+◯ [fundamentals](https://github.com/tstih/fundamentals) · Source material and notes for _The Fundamentals_ books.  
+◌ [the-dissident](https://github.com/tstih/the-dissident) · Personal essays and writings under the _Dissident_ label.
 
- * [**yx**](https://github.com/tstih/yx) a multithreaded kernel and a gui for zx spectrum 48K, merged into the xyz.
- * [**zxspec48-app**](https://github.com/tstih/zxspec48-app) is a simple application template for ZX spectrum.
- <br/>
+# Iskra Delta Projects (iskra-delta)
 
-## Iskra Delta Partner
+## Software
 
- * [**idp-udev**](https://github.com/tstih/idp-udev) is a micro-library to create computer games for the Iskra Delta Partner. The library is stripped to the bare minimum and optimized for size and speed.
- * [**lunatik**](https://github.com/tstih/lunatik) is the Moon Lander game for the Iskra Delta Partner.
- * [**idp-quill**](https://github.com/tstih/idp-quill) are the The Quill adventures ports for the Iskra Delta Partner: Kontrabant, Kontrabant II., and Eurorun.
- * [**sah-partner**](https://github.com/tstih/sah-partner) is a chess for the Iskra Delta Partner.
- * [**idp-animate**](https://github.com/tstih/idp-animate) is the vector animation player for the Iskra Delta Partner.
- * [**idp-dev**](https://github.com/tstih/idp-dev) is a full blown Iskra Delta Partner SDK. 
- * ![alpha.badge] [**libgpx**](https://github.com/tstih/libgpx) is the cross platform (Iskra Delta Partner and ZX Spectrum) 
- * ![alpha.badge] [**idp-sw**](https://github.com/tstih/idp-sw) are samples of Iskra Delta Partner software made wtih idp-dev and libgpx.
- * [**idp-doc**](https://github.com/tstih/idp-doc) is the Iskra Delta Patner Technical Documentation Archive. 
- * [**dlg-dev**](https://github.com/tstih/dlg-dev) is the Gorenje Dialog technical documentation archive.
-<br/>
+⬤ [idp-dev](https://github.com/iskra-delta/idp-dev) · Full SDK for the Iskra Delta Partner, supporting game and utility development.  
+⬤ [idp-doc](https://github.com/iskra-delta/idp-doc) · Technical documentation archive for the Iskra Delta Partner.  
+⬤ [idp-udev](https://github.com/iskra-delta/idp-udev) · Minimal game library optimized for size and speed.  
+⬤ [idp-animate](https://github.com/iskra-delta/idp-animate) · Vector animation player for the Partner.  
+⬤ [idp-quill](https://github.com/iskra-delta/idp-quill) · Ports of _The Quill_ adventures: Kontrabant I/II, Eurorun.  
+⬤ [lunatik](https://github.com/iskra-delta/lunatik) · Moon lander game for the Partner.  
+⬤ [sah-partner](https://github.com/iskra-delta/sah-partner) · Chess game for the Iskra Delta Partner.  
+⬤ [ura](https://github.com/iskra-delta/ura) · Clock and calendar utility for the Partner.  
+⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.
+◯ [tina-mina](https://github.com/iskra-delta/tina-mina) · Port of _Bomb Jack_ arcade game to the Partner.  
+◯ [gpx-tools](https://github.com/iskra-delta/gpx-tools) · Resource and image processing tools for libgpx.  
+◯ [gpxtools](https://github.com/iskra-delta/gpxtools) · Companion utilities for the libgpx graphics library.
+◌ [idp-emu](https://github.com/iskra-delta/idp-emu) · Emulator for the Iskra Delta Partner on Linux.  
+◌ [balum2](https://github.com/iskra-delta/balum2) · _Badum Badum_ — simple arcade-style game.  
+◌ [scramble](https://github.com/iskra-delta/scramble) · Port of Konami’s _Scramble_ arcade game.  
+◌ [idp-dbg](https://github.com/iskra-delta/idp-dbg) · Debugging tools for Partner software development.  
+◌ [idp-monitor](https://github.com/iskra-delta/idp-monitor) · Low-level monitor and debugger for the Partner.  
+◌ [idp-os](https://github.com/iskra-delta/idp-os) · Operating system for the Partner.  
+◌ [idp-gala](https://github.com/iskra-delta/idp-gala) · Galaksija emulator for the Partner.  
+◌ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner.  
+◌ [idp-sw](https://github.com/iskra-delta/idp-sw) · Showcase of software built using `idp-dev` and `idp-udev`.  
+◌ [idp-vault](https://github.com/iskra-delta/idp-vault) · Software preservation archive for the Partner.  
+◌ [dlg-dev](https://github.com/iskra-delta/dlg-dev) · Documentation and resources for the Gorenje Dialog.
 
-# Modern Projects
+# Wischner Projects (wischner)
 
- * [**More**](https://github.com/tstih/more) is a library of WinForms controls.
-<br/>
+## Software
 
-# Waiting for Better Days
- * ![alpha.badge] [**xyz**](https://github.com/tstih/xyz) is a complete operating system for zx spectrum 48k consisting of: the x compiler suite, the y os and the z gui under development.
- * **squid** is a raspberry pi software for adapting modern hardware to retro hardware using only software.
- * **idp-gala** is Galaksija emulator for the Iskra Delta Partner.
- * **mavrica** is the ZX Spectrum emulator for the Iskra Delta Partner.
- * **gpx-tools** are tools for libgpx and idp-udev graphics library.
- * **scramble** is the port of the Scramble arcade game for the Iskra Delta Partner.
- * **tina-mina** is the Bomb Jack port for the Iskra Delta Partner.
- * **lingo** is a Modern C++ parser library.
- * **idp-emu** is the Iskra Delta Partner debugger for Linux.
- * **zxm** is the mouse for the ZX Spectrum.
- * **alto** is portable GUI for 8 bit machines, written from scratch.
- * **nice** is an experimental modern C++ wrapper on top of windows API.
- * **idp-vault** is the Iskra Delta Partner software vault.
- * **z80maestro** is the Z80 dissasembler, code analyzer and emulator.
-<br/>
+◯ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
+◯ [sex](https://github.com/wischner/sex) · Explorer for Haiku OS settings and preferences.  
+◯ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.
 
-You can reach me: tomaz dot stih at post dot com.
+# Retro Vault Projects (retro-vault)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomazstih) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tomaz.stih) [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&color=0072b1)](https://www.linkedin.com/in/tomaz-stih/) 
+## Software
 
-[alpha.badge]:  https://img.shields.io/badge/status-alpha-red.svg
+⬤ [libsdcc-z80](https://github.com/retro-vault/libsdcc-z80) · Bare-metal SDCC runtime library for the Z80.  
+⬤ [libcpm3-z80](https://github.com/retro-vault/libcpm3-z80) · Standard C library for CP/M 3, written for SDCC.  
+⬤ [pericom7800](https://github.com/retro-vault/pericom7800) · Archive of Pericom 7800 system files and documentation.  
+⬤ [z80high](https://github.com/retro-vault/z80high) · JavaScript-based syntax highlighter for Z80 assembly.  
+⬤ [zxspec48-app](https://github.com/retro-vault/zxspec48-app) · Empty application template for SDCC-based ZX Spectrum 48K development.  
+⬤ [bugz](https://github.com/retro-vault/bugz) · Possibly the smallest Z80 disassembler ever made.  
+⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K.
+◯ [open-look](https://github.com/retro-vault/open-look) · Minimalist port of the classic OpenLook window manager for modern Unix systems.  
+◯ [font-vault](https://github.com/retro-vault/font-vault) · Archive of retro bitmap and vector fonts.  
+◯ [x](https://github.com/retro-vault/x) · Supporting tools and libraries for low-level X11 development.  
+◯ [libpicocad-z80](https://github.com/retro-vault/libpicocad-z80) · Z80 library with fixed-point math and precomputed trigonometry for graphics.  
+◯ [y](https://github.com/retro-vault/y) · The Y operating system for 8-bit retro platforms.  
+◯ [xyz](https://github.com/retro-vault/xyz) · A complete OS for the ZX Spectrum 48K: includes compiler (X), kernel (Y), and GUI (Z).
+◌ [libgpx](https://github.com/retro-vault/libgpx) · Cross-platform graphics library for 8-bit microcomputers.  
+◌ [majordomo](https://github.com/retro-vault/majordomo) · Package manager for CP/M-based systems.  
+◌ [nano-z80](https://github.com/retro-vault/nano-z80) · Tiny Z80 emulator with a minimal memory footprint.  
+◌ [z80maestro](https://github.com/retro-vault/z80maestro) · Z80 disassembler, static analyzer, and emulator for reverse engineering.
+
+# Retro Plastics Projects (retro-plastics)
+
+## Software
+
+◌ [squid](https://github.com/retro-plastics/squid) · General-purpose hub for connecting USB devices to retro computers. Translates USB protocols into a custom serial protocol readable by vintage machines.
+
+# Get in Touch
+
+- `tomaz dot stih at post dot com`
+- [Twitter](https://twitter.com/tomazstih) · [Facebook](https://www.facebook.com/tomaz.stih) · [LinkedIn](https://www.linkedin.com/in/tomaz-stih/)
