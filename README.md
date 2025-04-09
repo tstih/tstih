@@ -33,13 +33,11 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [idp-quill](https://github.com/iskra-delta/idp-quill) · Ports of _The Quill_ adventures: Kontrabant I/II, Eurorun.  
 ⬤ [lunatik](https://github.com/iskra-delta/lunatik) · Moon lander game for the Partner.  
 ⬤ [sah-partner](https://github.com/iskra-delta/sah-partner) · Chess game for the Iskra Delta Partner.  
-⬤ [ura](https://github.com/iskra-delta/ura) · Clock for the Partner.
-⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.
-
+⬤ [ura](https://github.com/iskra-delta/ura) · Clock for the Partner.  
+⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.  
 ◯ [tina-mina](https://github.com/iskra-delta/tina-mina) · Port of _Bomb Jack_ arcade game to the Partner.  
 ◯ [gpx-tools](https://github.com/iskra-delta/gpx-tools) · Resource and image processing tools for libgpx.  
-◯ [gpxtools](https://github.com/iskra-delta/gpxtools) · Companion utilities for the libgpx graphics library.
-
+◯ [gpxtools](https://github.com/iskra-delta/gpxtools) · Companion utilities for the libgpx graphics library.  
 ◌ [idp-emu](https://github.com/iskra-delta/idp-emu) · Emulator for the Iskra Delta Partner on Linux.  
 ◌ [balum2](https://github.com/iskra-delta/balum2) · _Balum Balum_ — the Dinosaur game.  
 ◌ [scramble](https://github.com/iskra-delta/scramble) · Port of Konami’s _Scramble_ arcade game.  
@@ -70,15 +68,13 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [z80high](https://github.com/retro-vault/z80high) · JavaScript-based syntax highlighter for Z80 assembly.  
 ⬤ [zxspec48-app](https://github.com/retro-vault/zxspec48-app) · Empty application template for SDCC-based ZX Spectrum 48K development.  
 ⬤ [bugz](https://github.com/retro-vault/bugz) · Possibly the smallest Z80 disassembler ever made.  
-⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K.
-
+⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K.  
 ◯ [open-look](https://github.com/retro-vault/open-look) · Minimalist port of the classic OpenLook window manager for modern Unix systems.  
 ◯ [font-vault](https://github.com/retro-vault/font-vault) · Archive of retro bitmap and vector fonts.  
 ◯ [x](https://github.com/retro-vault/x) · x compiler suite for the Z80.  
 ◯ [libpicocad-z80](https://github.com/retro-vault/libpicocad-z80) · Z80 library with fixed-point math and precomputed trigonometry for graphics.  
 ◯ [y](https://github.com/retro-vault/y) · The Y operating system for 8-bit retro platforms.  
-◯ [xyz](https://github.com/retro-vault/xyz) · A complete OS for the ZX Spectrum 48K: includes compiler (X), kernel (Y), and GUI (Z).
-
+◯ [xyz](https://github.com/retro-vault/xyz) · A complete OS for the ZX Spectrum 48K: includes compiler (X), kernel (Y), and GUI (Z).  
 ◌ [libgpx](https://github.com/retro-vault/libgpx) · Cross-platform graphics library for 8-bit microcomputers.  
 ◌ [majordomo](https://github.com/retro-vault/majordomo) · Package manager for CP/M-based systems.  
 ◌ [nano-z80](https://github.com/retro-vault/nano-z80) · Tiny Z80 emulator with a minimal memory footprint.  
