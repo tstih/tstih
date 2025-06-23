@@ -34,18 +34,18 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [lunatik](https://github.com/iskra-delta/lunatik) · Moon lander game for the Partner.  
 ⬤ [sah-partner](https://github.com/iskra-delta/sah-partner) · Chess game for the Iskra Delta Partner.  
 ⬤ [ura](https://github.com/iskra-delta/ura) · Clock for the Partner.  
-⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.  
+⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.
+◯ [idp-dbg](https://github.com/iskra-delta/idp-dbg) · Debugging tools for Partner software development.  
+◯ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner.  
 ◯ [tina-mina](https://github.com/iskra-delta/tina-mina) · Port of _Bomb Jack_ arcade game to the Partner.  
 ◯ [gpx-tools](https://github.com/iskra-delta/gpx-tools) · Resource and image processing tools for libgpx.  
 ◯ [gpxtools](https://github.com/iskra-delta/gpxtools) · Companion utilities for the libgpx graphics library.  
 ◌ [idp-emu](https://github.com/iskra-delta/idp-emu) · Emulator for the Iskra Delta Partner on Linux.  
 ◌ [balum2](https://github.com/iskra-delta/balum2) · _Balum Balum_ — the Dinosaur game.  
 ◌ [scramble](https://github.com/iskra-delta/scramble) · Port of Konami’s _Scramble_ arcade game.  
-◌ [idp-dbg](https://github.com/iskra-delta/idp-dbg) · Debugging tools for Partner software development.  
 ◌ [idp-monitor](https://github.com/iskra-delta/idp-monitor) · Low-level monitor and debugger for the Partner.  
 ◌ [idp-os](https://github.com/iskra-delta/idp-os) · Operating system for the Partner.  
 ◌ [idp-gala](https://github.com/iskra-delta/idp-gala) · Galaksija emulator for the Partner.  
-◌ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner.  
 ◌ [idp-sw](https://github.com/iskra-delta/idp-sw) · Showcase of software built using `idp-dev` and `idp-udev`.  
 ◌ [idp-vault](https://github.com/iskra-delta/idp-vault) · Software preservation archive for the Partner.  
 ◌ [dlg-dev](https://github.com/iskra-delta/dlg-dev) · Documentation and resources for the Gorenje Dialog.
@@ -54,6 +54,8 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ### Software
 
+⬤ [mms](https://github.com/wischner/mms) · Modern C++ memory‑mapped reader library for compilers assemblers, and linkers.
+◯ [openplan](https://github.com/wischner/openplan) · A JSON-based, open file format for defining the structure of buildings for home automation.
 ◯ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
 ◯ [sex](https://github.com/wischner/sex) · Explorer for Haiku OS settings and preferences.  
 ◯ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.
