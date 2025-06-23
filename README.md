@@ -34,7 +34,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [lunatik](https://github.com/iskra-delta/lunatik) · Moon lander game for the Partner.  
 ⬤ [sah-partner](https://github.com/iskra-delta/sah-partner) · Chess game for the Iskra Delta Partner.  
 ⬤ [ura](https://github.com/iskra-delta/ura) · Clock for the Partner.  
-⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.
+⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.  
 ◯ [idp-dbg](https://github.com/iskra-delta/idp-dbg) · Debugging tools for Partner software development.  
 ◯ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner.  
 ◯ [tina-mina](https://github.com/iskra-delta/tina-mina) · Port of _Bomb Jack_ arcade game to the Partner.  
@@ -54,8 +54,8 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ### Software
 
-⬤ [mms](https://github.com/wischner/mms) · Modern C++ memory‑mapped reader library for compilers assemblers, and linkers.
-◯ [openplan](https://github.com/wischner/openplan) · A JSON-based, open file format for defining the structure of buildings for home automation.
+⬤ [mms](https://github.com/wischner/mms) · Modern C++ memory‑mapped reader library for compilers assemblers, and linkers.  
+◯ [openplan](https://github.com/wischner/openplan) · A JSON-based, open file format for defining the structure of buildings for home automation.  
 ◯ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
 ◯ [sex](https://github.com/wischner/sex) · Explorer for Haiku OS settings and preferences.  
 ◯ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.
