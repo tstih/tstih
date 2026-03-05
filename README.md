@@ -10,31 +10,31 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ⬤ [tstih](https://github.com/tstih/tstih) · Config files and dotfiles for my GitHub profile.  
 ⬤ [pixie](https://github.com/tstih/pixie) · Simple vector display emulator for Linux.  
-⬤ [more](https://github.com/tstih/more) · Collection of MIT-licensed WinForms controls for .NET Core.
+⬤ [more](https://github.com/tstih/more) · Collection of MIT-licensed WinForms controls for .NET Core.  
 ⬤ [lingo](https://github.com/tstih/lingo) · Modern C++20 parser framework.   
 ◌ [alto](https://github.com/tstih/alto) · Portable retro GUI framework, inspired by the Xerox Alto.
 
 ### Books
 
-⬤ [anthology](https://github.com/tstih/anthology) · Personal essays and writings, published here - [tomaz-stih@co.uk](https://www.tomaz-stih.co.uk).
+⬤ [anthology](https://github.com/tstih/anthology) · Personal essays and writings, published [here](https://www.tomaz-stih.co.uk).  
 ◯ [fundamentals-code](https://github.com/tstih/fundamentals-code) · Code examples for _The Fundamentals_ book series.  
 ◯ [fundamentals-figures](https://github.com/tstih/fundamentals-figures) · Illustrations and diagrams for _Fundamentals_.  
 ◯ [fundamentals](https://github.com/tstih/fundamentals) · Source material and notes for _The Fundamentals_ books.  
 
 ## Retro Plastics Projects
-⬤ [libsquid](https://github.com/retro-plastics/libsquid) · a lightweight, symmetric serial transport for low-power systems and retro computers.
-◯ [squid-pico](https://github.com/retro-plastics/squid-pico) · Squid for Raspberry PI Pico 2 W. 
+⬤ [libsquid](https://github.com/retro-plastics/libsquid) · a lightweight, symmetric serial transport for low-power systems and retro computers.  
+◯ [squid-pico](https://github.com/retro-plastics/squid-pico) · Squid for Raspberry PI Pico 2 W.  
 ◯ [zxm](https://github.com/retro-plastics/zxm) · Mouse interface for the ZX Spectrum.  
 
 ## Wischner Projects (wischner)
 
 ### Software
 
-⬤ [mms](https://github.com/wischner/mms) · Modern C++ memory‑mapped reader library for compilers assemblers, and linkers.  
-⬤ [docker-toolchains](https://github.com/wischner/docker-toolchains) · Source repository for Docker-based toolchains. Compilers and SDKs for multiple platforms.
-◯ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.
-◯ [garçon](https://github.com/wischner/garcon) · Garçon is a zen-inspired, minimalist HTTP server in C/C++ with a focus on simplicity.
-◌ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.
+⬤ [mms](https://github.com/wischner/mms) · Modern C++ memory‑mapped reader library for compilers assemblers, and linkers.   
+⬤ [docker-toolchains](https://github.com/wischner/docker-toolchains) · Source repository for Docker-based toolchains. Compilers and SDKs for multiple platforms.  
+◯ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
+◯ [garçon](https://github.com/wischner/garcon) · Garçon is a zen-inspired, minimalist HTTP server in C/C++ with a focus on simplicity.  
+◌ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.  
 ◌ [openplan](https://github.com/wischner/openplan) · A JSON-based, open file format for defining the structure of buildings for home automation.    
 ◌ [sex](https://github.com/wischner/sex) · Explorer for Haiku OS settings and preferences.  
 
@@ -49,9 +49,9 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [zxspec48-app](https://github.com/retro-vault/zxspec48-app) · Empty application template for SDCC-based ZX Spectrum 48K development.  
 ⬤ [bugz](https://github.com/retro-vault/bugz) · Possibly the smallest Z80 disassembler ever made.  
 ⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K.  
-◯ [snatch](https://github.com/retro-vault/snatch) · A font “snatcher” for developers, pixel artists, and retro game enthusiasts.
+◯ [snatch](https://github.com/retro-vault/snatch) · A font “snatcher” for developers, pixel artists, and retro game enthusiasts.  
 ◯ [font-vault](https://github.com/retro-vault/font-vault) · Archive of retro bitmap and vector fonts.  
-◯ [µdap](https://github.com/retro-vault/mudap) · an open Debug Adapter Protocol (DAP) server and VSCode extension framework for emulating and debugging sdcc Z80 code.
+◯ [µdap](https://github.com/retro-vault/mudap) · an open Debug Adapter Protocol (DAP) server and VSCode extension framework for emulating and debugging sdcc Z80 code.  
 ◯ [open-look](https://github.com/retro-vault/open-look) · Minimalist port of the classic OpenLook window manager for modern Unix systems.   
 ◯ [x](https://github.com/retro-vault/x) · x compiler suite for the Z80.  
 ◯ [libpicocad-z80](https://github.com/retro-vault/libpicocad-z80) · Z80 library with fixed-point math and precomputed trigonometry for graphics.  
@@ -65,7 +65,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ## Iskra Delta Projects (iskra-delta)
 
 ### Software
-⬤ [idp-dev](https://github.com/iskra-delta/idp-dev) · Full SDK for the Iskra Delta Partner.
+⬤ [idp-dev](https://github.com/iskra-delta/idp-dev) · Full SDK for the Iskra Delta Partner.  
 ⬤ [idp-udev](https://github.com/iskra-delta/idp-udev) · Minimal library for the Iskra Delta Partner, optimized for size and speed.  
 ⬤ [idp-animate](https://github.com/iskra-delta/idp-animate) · Vector animation player for the Partner.  
 ⬤ [idp-quill](https://github.com/iskra-delta/idp-quill) · Ports of _The Quill_ adventures: Kontrabant I/II, Eurorun.  
@@ -88,8 +88,8 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ◌ [idp-vault](https://github.com/iskra-delta/idp-vault) · Software preservation archive for the Partner.  
 
 ### Documentation
-⬤ [idp-doc](https://github.com/iskra-delta/idp-doc) · Technical documentation archive for the Iskra Delta Partner. 
-◌ [dlg-dev](https://github.com/iskra-delta/dlg-dev) · Documentation and resources for the Gorenje Dialog.
+⬤ [idp-doc](https://github.com/iskra-delta/idp-doc) · Technical documentation archive for the Iskra Delta Partner.  
+◌ [dlg-dev](https://github.com/iskra-delta/dlg-dev) · Documentation and resources for the Gorenje Dialog.  
 
 # Get in Touch
 
