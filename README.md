@@ -15,7 +15,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [pixie](https://github.com/tstih/pixie) · Simple vector display emulator for Linux.  
 ⬤ [garcon](https://github.com/tstih/garcon) · Garçon is a lean and minimal HTTP web server written in modern C++.   
 ⬤ [tstih](https://github.com/tstih/tstih) · Config files and dotfiles for my GitHub profile.  
-◌ [alto](https://github.com/tstih/alto) · Portable retro GUI framework, inspired by the Xerox Alto.  
+◯ [alto](https://github.com/tstih/alto) · Portable retro GUI framework, inspired by the Xerox Alto.  
 ◌ [sex](https://github.com/tstih/sex) · Haiku OS Settings Explorer.   
 ◌ [openplan](https://github.com/tstih/openplan) · A JSON-based, open file format for defining the structure of buildings — rooms, walls, floors, doors, and devices — for use in home automation, simulation, and visualization.  
 ◌ [home](https://github.com/tstih/home) · My dream house.  
@@ -39,8 +39,8 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ⬤ [docker-toolchains](https://github.com/wischner/docker-toolchains) · Source repository for Docker-based toolchains. Compilers and SDKs for multiple platforms.  
 ⬤ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
-◌ [drillcad](https://github.com/wischner/drillcad) · Modern CAD-inspired directional drilling software – intuitive trajectory planning, ISCWSA anti-collision, surveys & torque & drag, built as a lighter, affordable alternative to legacy suites.   
-◯ [website](https://github.com/wischner/website) · Official website for Wischner Ltd.   
+◯ [website](https://github.com/wischner/website) · Official website for Wischner Ltd.  
+◌ [drillcad](https://github.com/wischner/drillcad) · Modern CAD-inspired directional drilling software – intuitive trajectory planning, ISCWSA anti-collision, surveys & torque & drag, built as a lighter, affordable alternative to legacy suites.    
 ◌ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.  
 
 ## Triglav OS Projects (triglav-os)
