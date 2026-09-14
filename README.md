@@ -54,7 +54,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [gem](https://github.com/triglav-os/gem) · Porting Digital Research GEM to Linux with a modern client-server architecture, multitasking, and process isolation while preserving the original GEM design philosophy.  
 ◯ [cathedral](https://github.com/triglav-os/cathedral) · A decentralized operations network built on a friend-to-friend trust model.  
 ◯ [gemix](https://github.com/triglav-os/gemix) · A lightweight Linux distribution derived from Triglav OS, built around a modernized client-server implementation of GEM with only essential software included.  
-◯ [gemix.io](https://github.com/triglav-os/gemix.io) · Web site for Gemix (Alpha). Available (here)[http://gemix.io]  
+◯ [gemix.io](https://github.com/triglav-os/gemix.io) · Web site for Gemix (Alpha). Available [here](http://gemix.io)  
 ◌ [os](https://github.com/triglav-os/os) · Triglav OS.   
 ◌ [www](https://github.com/triglav-os/www) · Triglav OS website.   
 
