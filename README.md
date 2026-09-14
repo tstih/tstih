@@ -63,6 +63,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ### Software
 
 ⬤ [xyz](https://github.com/retro-vault/xyz) · A complete OS for the ZX Spectrum 48K: includes compiler (X), kernel (Y), and GUI (Z).  
+⬤ [xyz-www](https://github.com/retro-vault/xyz-www) · Website for xyz, available [here](http://quinzhee.xyz).  
 ⬤ [snatch](https://github.com/retro-vault/snatch) · A font “snatcher” for developers, pixel artists, and retro game enthusiasts.  
 ⬤ [font-vault](https://github.com/retro-vault/font-vault) · Archive of retro bitmap and vector fonts.  
 ⬤ [libsdcc-z80](https://github.com/retro-vault/libsdcc-z80) · Bare-metal SDCC runtime library for the Z80.  
@@ -72,13 +73,23 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [open-look](https://github.com/retro-vault/open-look) · Minimalist port of the classic OpenLook/xview window manager and library for modern Unix systems.   
 ⬤ [z80high](https://github.com/retro-vault/z80high) · JavaScript-based syntax highlighter for Z80 assembly.  
 ⬤ [zxspec48-app](https://github.com/retro-vault/zxspec48-app) · Empty application template for SDCC-based ZX Spectrum 48K development.  
+⬤ [zx-spectrum-mcp](https://github.com/retro-vault/zx-spectrum-mcp) · ZX Spectrum emualtor MCP.  
+⬤ [amstrad-cpc-mcp](https://github.com/retro-vault/amstrad-cpc-mcp) · Amstrad CPC models MCP.  
+⬤ [beepolix](https://github.com/retro-vault/beepolix) · Beepola "port" for Linux.  
 ⬤ [bugz](https://github.com/retro-vault/bugz) · Possibly the smallest Z80 disassembler ever made.  
-⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K.  
-◯ [µdap](https://github.com/retro-vault/mudap) · an open Debug Adapter Protocol (DAP) server and VSCode extension framework for emulating and debugging sdcc Z80 code.  
+⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K. Archived. 
+⬤ [µdap](https://github.com/retro-vault/udap) · An open Debug Adapter Protocol (DAP) server and VSCode extension framework for emulating and debugging sdcc Z80 code.  
+⬤ [µdap-app](https://github.com/retro-vault/udap-app) · Sample Z80 application to test udap source code debugging.  
+⬤ [Window Maker](https://github.com/retro-vault/window-maker) · New build system for the Window Maker X window manager.  
+⬤ [Open Look](https://github.com/retro-vault/open-look) · New build system for the Sun Open Look X window manager.  
+◯ [cowboys](https://github.com/retro-vault/cowboys) · Cowboys game for ZX Spectrum. Yeehaw!  
 ◯ [libpicocad-z80](https://github.com/retro-vault/libpicocad-z80) · Z80 library with fixed-point math and precomputed trigonometry for graphics.  
-◌ [majordomo](https://github.com/retro-vault/majordomo) · Package manager for CP/M-based systems.  
+◯ [majordomo](https://github.com/retro-vault/majordomo) · Lightweight web catalog and open API for retro computing software packages, website is [here](http://retro-vault.org).  
 ◌ [nano-z80](https://github.com/retro-vault/nano-z80) · Tiny Z80 emulator with a minimal memory footprint.  
+◌ [maestro](https://github.com/retro-vault/maestro) · Multiplatform 1-bit per pixel sprite/font editor.  
+◌ [memware](https://github.com/retro-vault/memware) · Universal memory emulator for Raspberry Pi Pico.  
 ◌ [z80maestro](https://github.com/retro-vault/z80maestro) · Z80 disassembler, static analyzer, and emulator for reverse engineering.
+
 
 ### Documentation
 ⬤ [pericom7800](https://github.com/retro-vault/pericom7800) · Archive of Pericom 7800 system files and documentation.  
@@ -88,12 +99,16 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ### Software
 ⬤ [idp-emu](https://github.com/iskra-delta/idp-emu) · Emulator for the Iskra Delta Partner on Linux.  
-⬤ [idp-sdk](https://github.com/iskra-delta/idp-sdk) · Full SDK for the Iskra Delta Partner.  
+⬤ [idp-sdk](https://github.com/iskra-delta/idp-sdk) · Full SDK for the Iskra Delta Partner.  This SDK obsoletes [idp-dev](https://github.com/iskra-delta/idp-dev).  
 ⬤ [idp-app](https://github.com/iskra-delta/idp-app) · a small graphics demo for the Iskra Delta Partner. It shows how to build and run a CP/M graphics program with the Partner-ready toolchain in Docker (idp-sdk).  
-⬤ [sql](https://github.com/iskra-delta/sql) · sql is the hosted development program for the project. It runs an interactive SQL shell backed by the small SQL parser and DBF storage layer. The same source code compiles for CP/M with SDCC.  
 ⬤ [idp-udev](https://github.com/iskra-delta/idp-udev) · Minimal library for the Iskra Delta Partner, optimized for size and speed.  
+⬤ [partos](https://github.com/iskra-delta/partos) · A modern operating system for the Partner.  
+⬤ [paket](https://github.com/iskra-delta/paket) · Slovenian implementation of the Majordomo package manager for the Iskra Delta Partner.  
+⬤ [www](https://github.com/iskra-delta/www) · Iskra Delta [website](http://www.iskra-delta.si).  
 ⬤ [cpmdisk](https://github.com/iskra-delta/cpmdisk) · A command-line tool for creating and managing CP/M disk images for the Iskra Delta Partner (CP/M).  
-⬤ [idp-pong](https://github.com/iskra-delta/idp-pong) · Atari-style Pong for Iskra Delta Partner.  
+⬤ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner POC.  
+⬤ [baremetal](https://github.com/iskra-delta/baremetal) · Iskra Delta Partner bare metal library. Write banked programs for Partner without the operating system.  
+⬤ [pong](https://github.com/iskra-delta/pong) · Atari-style Pong for Iskra Delta Partner.  
 ⬤ [aids](https://github.com/iskra-delta/aids) · Asteroids for Iskra Delta Partner.  
 ⬤ [idp-animate](https://github.com/iskra-delta/idp-animate) · Vector animation player for the Partner.  
 ⬤ [idp-quill](https://github.com/iskra-delta/idp-quill) · Ports of _The Quill_ adventures: Kontrabant I/II, Eurorun.  
@@ -101,23 +116,23 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [sah-partner](https://github.com/iskra-delta/sah-partner) · Chess game for the Iskra Delta Partner.  
 ⬤ [ura](https://github.com/iskra-delta/ura) · Clock for the Partner.  
 ⬤ [idp-mame-deb](https://github.com/iskra-delta/idp-mame-deb) · Debian package for the Partner's MAME-based emulator.  
-◯ [mavrica](https://github.com/iskra-delta/mavrica) · Just-in-time ZX Spectrum emulator for the Partner.  
-◯ [idp-paket](https://github.com/iskra-delta/idp-paket) · Slovenian implementation of the Majordomo package manager for the Iskra Delta Partner.  
+◯ [triglav-emu](https://github.com/iskra-delta/triglav-emu) · Iskra Delta Triglav emulator.  
+◯ [sql](https://github.com/iskra-delta/sql) · sql is the hosted development program for the project. It runs an interactive SQL shell backed by the small SQL parser and DBF storage layer. The same source code compiles for CP/M with SDCC.  
 ◯ [berlin](https://github.com/iskra-delta/berlin) · Escape from socialist paradise game.  
-◯ [www](https://github.com/iskra-delta/www) · Iskra Delta [website](http://www.iskra-delta.si).  
 ◯ [tina-mina](https://github.com/iskra-delta/tina-mina) · Port of _Bomb Jack_ arcade game to the Partner.  
 ◯ [gpx-tools](https://github.com/iskra-delta/gpx-tools) · Resource and image processing tools for libgpx.  
 ◯ [gpxtools](https://github.com/iskra-delta/gpxtools) · Companion utilities for the libgpx graphics library.  
 ◌ [balum2](https://github.com/iskra-delta/balum2) · _Balum Balum_ — the Dinosaur game.  
 ◌ [scramble](https://github.com/iskra-delta/scramble) · Port of Konami’s _Scramble_ arcade game.  
 ◌ [idp-monitor](https://github.com/iskra-delta/idp-monitor) · Low-level monitor and debugger for the Partner.  
-◌ [partos](https://github.com/iskra-delta/partos) · Operating system for the Partner.  
 ◌ [idp-gala](https://github.com/iskra-delta/idp-gala) · Galaksija emulator for the Partner.  
-◌ [idp-sw](https://github.com/iskra-delta/idp-sw) · Showcase of software built using `idp-dev` and `idp-udev`.  
-◌ [idp-vault](https://github.com/iskra-delta/idp-vault) · Software preservation archive for the Partner.  
+◌ [idp-sw](https://github.com/iskra-delta/idp-sw) · Showcase of software built using `idp-dev` and `idp-udev`. Archived.  
+◌ [idp-dev](https://github.com/iskra-delta/idp-dev) · First version of [Iskra Delta Partner SDK](https://github.com/iskra-delta/idp-sdk). Archived.  
+◌ [idp-sw](https://github.com/iskra-delta/idp-sw) · Showcase of software built using `idp-dev` and `idp-udev`. Archived.  
 
 ### Documentation
 ⬤ [idp-doc](https://github.com/iskra-delta/idp-doc) · Technical documentation archive for the Iskra Delta Partner.  
+◌ [triglav-doc](https://github.com/iskra-delta/triglav-doc) · Technical documentation archive for the Iskra Delta Triglav.  
 ◌ [dlg-dev](https://github.com/iskra-delta/dlg-dev) · Documentation and resources for the Gorenje Dialog.  
 
 ## Gwindle Labs Projects (gwindle)
