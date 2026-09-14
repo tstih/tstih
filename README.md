@@ -77,11 +77,11 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ⬤ [amstrad-cpc-mcp](https://github.com/retro-vault/amstrad-cpc-mcp) · Amstrad CPC models MCP.  
 ⬤ [beepolix](https://github.com/retro-vault/beepolix) · Beepola "port" for Linux.  
 ⬤ [bugz](https://github.com/retro-vault/bugz) · Possibly the smallest Z80 disassembler ever made.  
-⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K. Archived. 
 ⬤ [µdap](https://github.com/retro-vault/udap) · An open Debug Adapter Protocol (DAP) server and VSCode extension framework for emulating and debugging sdcc Z80 code.  
 ⬤ [µdap-app](https://github.com/retro-vault/udap-app) · Sample Z80 application to test udap source code debugging.  
 ⬤ [Window Maker](https://github.com/retro-vault/window-maker) · New build system for the Window Maker X window manager.  
 ⬤ [Open Look](https://github.com/retro-vault/open-look) · New build system for the Sun Open Look X window manager.  
+⬤ [yx](https://github.com/retro-vault/yx) · Multithreaded kernel and GUI for the ZX Spectrum 48K. Archived.  
 ◯ [cowboys](https://github.com/retro-vault/cowboys) · Cowboys game for ZX Spectrum. Yeehaw!  
 ◯ [libpicocad-z80](https://github.com/retro-vault/libpicocad-z80) · Z80 library with fixed-point math and precomputed trigonometry for graphics.  
 ◯ [majordomo](https://github.com/retro-vault/majordomo) · Lightweight web catalog and open API for retro computing software packages, website is [here](http://retro-vault.org).  
