@@ -19,6 +19,7 @@ Retro computing is my hobby — you can't build the future without knowing the p
 ◌ [sex](https://github.com/tstih/sex) · Haiku OS Settings Explorer.   
 ◌ [openplan](https://github.com/tstih/openplan) · A JSON-based, open file format for defining the structure of buildings — rooms, walls, floors, doors, and devices — for use in home automation, simulation, and visualization.  
 ◌ [home](https://github.com/tstih/home) · My dream house.  
+◌ [emmy](https://github.com/tstih/emmy) · Tiny home video web site.  
 
 ### Books
 
@@ -39,20 +40,23 @@ Retro computing is my hobby — you can't build the future without knowing the p
 
 ⬤ [docker-toolchains](https://github.com/wischner/docker-toolchains) · Source repository for Docker-based toolchains. Compilers and SDKs for multiple platforms.  
 ⬤ [native](https://github.com/wischner/native) · Cross-platform UI library in modern C++, built on native system controls and concepts.  
+⬤ [tabcast](https://github.com/wischner/tabcast) · Cast the content of your web browser to e-ink reader.  
 ◯ [website](https://github.com/wischner/website) · Official website for Wischner Ltd.  
+◯ [support](https://github.com/wischner/support) · Support for my github and docker hub projects, published [here](http://wischner.co.uk/support).  
 ◌ [drillcad](https://github.com/wischner/drillcad) · Modern CAD-inspired directional drilling software – intuitive trajectory planning, ISCWSA anti-collision, surveys & torque & drag, built as a lighter, affordable alternative to legacy suites.    
 ◌ [leonardo](https://github.com/wischner/leonardo) · Multi-platform collaborative diagramming library.  
+◌ [microapps](https://github.com/wischner/microapps) · The microapps.shop web store.  
 
 ## Triglav OS Projects (triglav-os)
 
 ### Software
 
 ⬤ [gem](https://github.com/triglav-os/gem) · Porting Digital Research GEM to Linux with a modern client-server architecture, multitasking, and process isolation while preserving the original GEM design philosophy.  
+◯ [cathedral](https://github.com/triglav-os/cathedral) · A decentralized operations network built on a friend-to-friend trust model.  
 ◯ [gemix](https://github.com/triglav-os/gemix) · A lightweight Linux distribution derived from Triglav OS, built around a modernized client-server implementation of GEM with only essential software included.  
-◌ [www](https://github.com/triglav-os/gemix) · A lightweight Linux distribution derived from Triglav OS, built around a modernized client-server implementation of GEM with only essential software included.  
-◌ [kernel](https://github.com/triglav-os/kernel) · Triglav OS Linux 7 kernel.  
-◌ [root](https://github.com/triglav-os/root) · Triglav OS root.  
-◌ [boot](https://github.com/triglav-os/boot) · Triglav OS boot.  
+◯ [gemix.io](https://github.com/triglav-os/gemix.io) · Web site for Gemix (Alpha). Available (here)[http://gemix.io]  
+◌ [os](https://github.com/triglav-os/os) · Triglav OS.   
+◌ [www](https://github.com/triglav-os/www) · Triglav OS website.   
 
 ## Retro Vault Projects (retro-vault)
 
